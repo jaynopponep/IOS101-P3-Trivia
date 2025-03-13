@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
-
+![Trivia App](Project3.gif)
 ## Notes
 
 Had to read alot of documentation and also get help for this.
